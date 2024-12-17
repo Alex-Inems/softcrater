@@ -10,7 +10,7 @@ const ContactPage = () => {
         <div className="text-center mb-12">
           <h1 className="text-5xl font-extrabold text-green-500">Contact Us</h1>
           <p className="text-lg text-gray-400 mt-4">
-            Have questions or need assistance? We're here to help.
+            Have questions or need assistance? We&apos;re here to help.
           </p>
         </div>
 
@@ -20,7 +20,7 @@ const ContactPage = () => {
           <div className="space-y-8">
             <h2 className="text-3xl font-bold text-gray-200">Get in Touch</h2>
             <p className="text-gray-400">
-              Whether you're looking to collaborate or just have a question, feel free to reach out. We’d love to hear from you!
+              Whether you&apos;re looking to collaborate or just have a question, feel free to reach out. We&apos;d love to hear from you!
             </p>
             <div className="space-y-6">
               <div className="flex items-start space-x-4">

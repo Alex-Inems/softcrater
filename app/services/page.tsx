@@ -132,7 +132,7 @@ const ServicesPage = () => {
                   className="rounded-full mb-4"
                 />
                 <p className="text-gray-300 italic mb-4">
-                  "{testimonial.feedback}"
+                &quot;{testimonial.feedback}&quot;
                 </p>
                 <h3 className="text-green-400 font-semibold">{testimonial.name}</h3>
               </div>
