@@ -9,9 +9,9 @@ const Footer = () => (
           href="mailto:info@softstructures.co"
           className="underline text-lg hover:text-green-500 transition"
         >
-          info@softstructures.co
+          inema9886@gmail.com
         </a>
-        <span className="text-lg">+234 809 4444 912</span>
+        <span className="text-lg">+234 7082995663</span>
         <span className="text-lg">Lagos, Nigeria</span>
       </div>
       <div className="mt-8 text-center">

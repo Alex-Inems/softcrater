@@ -31,11 +31,11 @@ const ContactPage = () => {
               </div>
               <div className="flex items-start space-x-4">
                 <span className="text-green-500 text-2xl">📞</span>
-                <p className="text-gray-300">+234 (701) 234-5678</p>
+                <p className="text-gray-300">+234 (708) 299-5663</p>
               </div>
               <div className="flex items-start space-x-4">
                 <span className="text-green-500 text-2xl">✉️</span>
-                <p className="text-gray-300">contact@softstructures.com</p>
+                <p className="text-gray-300">inema9886@gmail.com</p>
               </div>
             </div>
           </div>
